@@ -9,3 +9,14 @@ G:\work_data\WEB APP\apex\obj\Debug\netcoreapp2.0\apex.AssemblyInfoInputs.cache
 G:\work_data\WEB APP\apex\obj\Debug\netcoreapp2.0\apex.AssemblyInfo.cs
 G:\work_data\WEB APP\apex\obj\Debug\netcoreapp2.0\apex.dll
 G:\work_data\WEB APP\apex\obj\Debug\netcoreapp2.0\apex.pdb
+G:\work_data\WEB APP\ngnet-repo\ngNet\bin\Debug\netcoreapp2.0\apex.deps.json
+G:\work_data\WEB APP\ngnet-repo\ngNet\bin\Debug\netcoreapp2.0\apex.runtimeconfig.json
+G:\work_data\WEB APP\ngnet-repo\ngNet\bin\Debug\netcoreapp2.0\apex.runtimeconfig.dev.json
+G:\work_data\WEB APP\ngnet-repo\ngNet\bin\Debug\netcoreapp2.0\apex.dll
+G:\work_data\WEB APP\ngnet-repo\ngNet\bin\Debug\netcoreapp2.0\apex.pdb
+G:\work_data\WEB APP\ngnet-repo\ngNet\obj\Debug\netcoreapp2.0\apex.csprojResolveAssemblyReference.cache
+G:\work_data\WEB APP\ngnet-repo\ngNet\obj\Debug\netcoreapp2.0\apex.csproj.CoreCompileInputs.cache
+G:\work_data\WEB APP\ngnet-repo\ngNet\obj\Debug\netcoreapp2.0\apex.AssemblyInfoInputs.cache
+G:\work_data\WEB APP\ngnet-repo\ngNet\obj\Debug\netcoreapp2.0\apex.AssemblyInfo.cs
+G:\work_data\WEB APP\ngnet-repo\ngNet\obj\Debug\netcoreapp2.0\apex.dll
+G:\work_data\WEB APP\ngnet-repo\ngNet\obj\Debug\netcoreapp2.0\apex.pdb

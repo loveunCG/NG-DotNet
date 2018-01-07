@@ -12561,6 +12561,7 @@
   },
   "packageFolders": {
     "C:\\Users\\cgh19\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -12569,18 +12570,20 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "G:\\work_data\\WEB APP\\apex\\apex.csproj",
+      "projectUniqueName": "G:\\work_data\\WEB APP\\ngnet-repo\\ngNet\\apex.csproj",
       "projectName": "apex",
-      "projectPath": "G:\\work_data\\WEB APP\\apex\\apex.csproj",
+      "projectPath": "G:\\work_data\\WEB APP\\ngnet-repo\\ngNet\\apex.csproj",
       "packagesPath": "C:\\Users\\cgh19\\.nuget\\packages\\",
-      "outputPath": "G:\\work_data\\WEB APP\\apex\\obj\\",
+      "outputPath": "G:\\work_data\\WEB APP\\ngnet-repo\\ngNet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\cgh19\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -12603,18 +12606,18 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.NETCore.App": {
+          "Microsoft.AspNetCore.All": {
             "target": "Package",
-            "version": "2.0.0",
-            "autoReferenced": true
+            "version": "[2.0.0, )"
           },
           "Microsoft.AspNetCore.SpaServices.Extensions": {
             "target": "Package",
-            "version": "2.0.0-preview1-final"
+            "version": "[2.0.0-preview1-final, )"
           },
-          "Microsoft.AspNetCore.All": {
+          "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0"
+            "version": "[2.0.0, )",
+            "autoReferenced": true
           }
         },
         "imports": [
